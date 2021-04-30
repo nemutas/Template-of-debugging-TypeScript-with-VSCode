@@ -12,13 +12,13 @@ Minimum debugging environment and recommended compilation settings for Typescrip
 
 
 ## Install
-[Node.js](https://nodejs.org/ja/)
-[Typscript](https://typescript-jp.gitbook.io/deep-dive/getting-started)
+[Node.js](https://nodejs.org/ja/)  
+[Typscript](https://typescript-jp.gitbook.io/deep-dive/getting-started)  
 [VSCode](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)
 
 
 ## VSCode Extensions
-[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)  
 [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 
 
